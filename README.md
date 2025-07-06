@@ -38,8 +38,6 @@ This deep learning project classifies flower images into five categories: **dais
 ---
 
 ## 🧠 Model Architecture
-
-```text
 Input (180x180x3)
 → Data Augmentation (Flip, Zoom, Rotate)
 → Rescaling Layer
