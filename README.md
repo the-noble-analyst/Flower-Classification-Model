@@ -87,26 +87,26 @@ flower-classifier/
 └── README.md                  # Project Overview
 
 ## 📌 How to Use
-Clone the repository
+1.Clone the repository
 
-Ensure TensorFlow and Streamlit are installed
+2.Ensure TensorFlow and Streamlit are installed
 
-Run the model training script (or load the saved .keras file)
+3.Run the model training script (or load the saved .keras file)
 
-Launch the web app via Streamlit
+4.Launch the web app via Streamlit
 
-✅ Key Learnings
-Built and tuned a CNN for multi-class classification.
+## ✅ Key Learnings
+1.Built and tuned a CNN for multi-class classification.
 
-Applied data augmentation and prefetch caching to optimize training.
+2.Applied data augmentation and prefetch caching to optimize training.
 
-Successfully deployed the model using Streamlit for end-user interaction.
+3.Successfully deployed the model using Streamlit for end-user interaction.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Nabeel Siddiqui
 📧 nabeelsiddiqui468@gmail.com
 
-📃 License
+## 📃 License
 Open-source project licensed under MIT License.
 
 ---
